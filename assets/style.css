@@ -1,0 +1,43 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: aquamarine;
+    padding: 50px;
+    border-bottom: 10px solid bisque;
+    /* position: relative; */
+}
+
+header ul{
+    float: right;
+}
+
+li {
+    display: inline;
+}
+
+.h1-title{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    background-color: cornsilk;
+    padding: 1px
+}
+
+img{
+    height: 200px;
+}
+
+.contact{
+    background-color: bisque;
+    padding: 1px;
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 1px;
+}
